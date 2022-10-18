@@ -1,0 +1,20 @@
+{
+  "name": "javascript-module-3-workshop",
+  "version": "1.0.0",
+  "description": "Fork and Clone this repo.\r ## Table of contents\r **[WEEK 1](#week-1)**\r - **[Protocols](#protocols)**\r - [Knowing the Rules](#knowing-the-rules)\r - [The Protocol of the Web](#the-protocol-of-the-web)\r - [HTTP Requests](#http-requests)\r - [HTTP Responses](#http-responses)\r - [How APIs Build on HTTP](#how-apis-build-on-http)\r - [How Data Formats Are Used In HTTP](#how-data-formats-are-used-in-http)\r - **[Fetch API](#fetch-api)**\r - [Sending a Request](#sending-a-request)\r - [Reading the Response](#reading-the-response)\r - [Promises](#promises)\r - [Async await](#async-await)\r - **[Pokedex Project](#pokedex)**",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mann55/javascript-module-3-workshop.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mann55/javascript-module-3-workshop/issues"
+  },
+  "homepage": "https://github.com/Mann55/javascript-module-3-workshop#readme"
+}
